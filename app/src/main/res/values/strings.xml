@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="name">Name</string>
+    <string name="mail">Mail</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+</resources>
